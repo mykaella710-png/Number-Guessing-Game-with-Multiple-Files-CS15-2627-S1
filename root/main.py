@@ -4,7 +4,6 @@ from score import player_scoring, score_rating
 
 
 secret_number = generate_secret_number()
-print("Secret:", secret_number)
 score = 100
 
 while True:
